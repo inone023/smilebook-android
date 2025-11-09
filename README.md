@@ -43,11 +43,23 @@ Android App ⇄ SmileBook API Server ⇄ AWS RDS (MySQL)
 
 ## 📸 주요 화면
 
-| 기능 | 예시 화면 |
-|------|------------|
-| 로그인 / 회원가입 | ![login](img/login.png) |
-| 도서 위치 확인 | ![bookmap](img/bookmap.png) |
-| 관리자 모드 | ![admin](img/admin.png) |
+| 기능          | 예시 화면                                 |
+| ----------- | ------------------------------------- |
+| 회원가입 화면     | ![signup](img/signup.png)             |
+| 로그인 화면      | ![login](img/login.png)               |
+| 앱 메인화면      | ![main](img/main.png)                 |
+| 전체 도서 목록    | ![booklist](img/booklist.png)         |
+| 찜 도서 목록     | ![wishlist](img/wishlist.png)         |
+| 검색어 입력      | ![searchinput](img/searchinput.png)   |
+| 검색 결과 표시    | ![searchresult](img/searchresult.png) |
+| 도서 위치 화면    | ![booklocation](img/booklocation.png) |
+| 도서 정보 화면    | ![bookinfo](img/bookinfo.png)         |
+| 내 도서 목록     | ![mybooks](img/mybooks.png)           |
+| 대출 연장 화면    | ![extendloan](img/extendloan.png)     |
+| 관리자 인증 화면   | ![adminauth](img/adminauth.png)       |
+| 도서 등록 화면    | ![bookadd](img/bookadd.png)           |
+| 회원 목록 화면    | ![userlist](img/userlist.png)         |
+| 회원 상세 정보 화면 | ![userdetail](img/userdetail.png)     |
 
 ---
 

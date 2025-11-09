@@ -45,14 +45,14 @@ Android App ⇄ SmileBook API Server ⇄ AWS RDS (MySQL)
 
 | 기능          | 예시 화면                                 |
 | ----------- | ------------------------------------- |
-| 회원가입 화면     | ![signup](signup.png)             |
-| 로그인 화면      | ![login](login.png)               |
-| 앱 메인화면      | ![main](main.png)                 |
-| 전체 도서 목록    | ![booklist](booklist.png)         |
-| 찜 도서 목록     | ![wishlist](wishlist.png)         |
-| 검색어 입력      | ![searchinput](searchinput.png)   |
-| 검색 결과 표시    | ![searchresult](searchresult.png) |
-| 도서 위치 화면    | ![booklocation](booklocation.png) |
+| 회원가입 화면     | ![signup](img/signup.png)             |
+| 로그인 화면      | ![login](img/login.png)               |
+| 앱 메인화면      | ![main](img/main.png)                 |
+| 전체 도서 목록    | ![booklist](img/booklist.png)         |
+| 찜 도서 목록     | ![wishlist](img/wishlist.png)         |
+| 검색어 입력      | ![searchinput](img/searchinput.png)   |
+| 검색 결과 표시    | ![searchresult](img/searchresult.png) |
+| 도서 위치 화면    | ![booklocation](img/booklocation.png) |
 | 도서 정보 화면    | ![bookinfo](img/bookinfo.png)         |
 | 내 도서 목록     | ![mybooks](img/mybooks.png)           |
 | 대출 연장 화면    | ![extendloan](img/extendloan.png)     |

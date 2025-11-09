@@ -39,9 +39,6 @@ Spring Boot API 서버와 통신하여 도서 검색, 예약, 대출 연장, 회
 
 Android App ⇄ SmileBook API Server ⇄ AWS RDS (MySQL)
 
-yaml
-코드 복사
-
 ---
 
 ## 📸 주요 화면

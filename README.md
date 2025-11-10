@@ -72,8 +72,8 @@ Android App ⇄ SmileBook API Server ⇄ AWS RDS (MySQL)
 ---
 
 ## 🧾 관련 프로젝트
-- [🌐 SmileBook-API (Server)](https://github.com/yourusername/smilebook-api)
-- [🔌 SmileBook-Arduino (IoT)](https://github.com/yourusername/smilebook-arduino)
+- [🌐 SmileBook-API (Server)](https://github.com/inone023/smilebook-api)
+- [🔌 SmileBook-Arduino (IoT)](https://github.com/inone023/smilebook-arduino)
 
 ---
 
